@@ -1,7 +1,7 @@
 # ToDo - List
 
 - TODO LIST 기능 : 등록, 삭제, 전체삭제, 체크
-  ![png1](/images/example1.png)
+  ![png1](/images/example.png)
 
 ## Project setup
 
