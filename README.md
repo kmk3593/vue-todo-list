@@ -1,11 +1,7 @@
 # ToDo - List
 
-![png1](/images/example1.png)
-
 - TODO LIST 기능 : 등록, 삭제, 전체삭제, 체크
-  ![png1](/vue-todo/images/example1.png)
-
-# vue-todo
+  ![png1](/images/example1.png)
 
 ## Project setup
 
